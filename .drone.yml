@@ -1,4 +1,4 @@
-pipelines:
+pipeline:
     hello:
         image: ubuntu
         commands:
