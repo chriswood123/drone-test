@@ -1,5 +1,4 @@
 pipeline:
     hello:
-        image: ubuntu
-        commands:
-            - echo yo
+        image: chriswood123/hello-drone:latest
+	hello: drone
