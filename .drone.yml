@@ -1,4 +1,4 @@
 pipeline:
     hello:
         image: chriswood123/hello-drone:latest
-        hello: drone
+        hello: tt
