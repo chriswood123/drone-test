@@ -3,4 +3,4 @@ pipeline:
         image: ubuntu
         secrets: [ hello ]
         commands:
-            - echo hello ${HELLO}
+            - echo hello $HELLO
