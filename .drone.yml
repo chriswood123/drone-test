@@ -2,4 +2,4 @@ pipeline:
     hello:
         image: ubuntu
         commands:
-            - echo yo
+            - echo hello cloudreach
