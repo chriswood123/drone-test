@@ -2,4 +2,4 @@ pipeline:
     hello:
         image: ubuntu
         commands:
-            - echo hello cloudreach
+            - echo hello tekkie tea
